@@ -14,7 +14,7 @@ CodeCanvas is an interactive platform built with Next.js specifically designed f
 
 ## Live Demo
 
-https://code-canvas-tau.vercel.app/
+https://code-canvas-private.vercel.app/
 
 ---
 
