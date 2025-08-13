@@ -21,4 +21,4 @@ https://code-canvas-private.vercel.app/
 
 ---
 
-Built with ❤️ by Sreya
+*Built with ❤️ by **Sreya***
